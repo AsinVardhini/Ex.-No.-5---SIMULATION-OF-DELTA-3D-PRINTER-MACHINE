@@ -29,7 +29,7 @@
 
 ![Screenshot 2023-05-20 215719](https://github.com/AsinVardhini/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119417735/3faafe37-019a-4e10-a7e2-f4362522a158)
 
-```
+
 Base :
 The base refers to the stationary bottom platform on which the printer is mounted. It is the foundation that provides
 stability and support for the entire printer structure. 
@@ -91,7 +91,7 @@ LCD :
 An LCD (Liquid Crystal Display) refers to a display panel that is used to provide visual feedback and user interface capabilities.
 The LCD is typically integrated into the control interface of the printer, allowing users to interact with the printer and access
 various settings and functions.
-```
+
 ### Playing with axes:
 
 ![Screenshot 2023-05-20 215820](https://github.com/AsinVardhini/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119417735/71434f2d-2948-4cb5-9231-5928072801aa)
